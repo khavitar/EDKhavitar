@@ -1,0 +1,45 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/kauzar/Documents/DAW/LENGUAJE DE MARCAS/Concurso/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kauzar/Documents/DAW/LENGUAJE DE MARCAS/Concurso/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Concurso 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/kauzar/Documents/DAW/LENGUAJE DE MARCAS/Concurso/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Concurso 1.0-SNAPSHOT API'
+'C:/Users/kauzar/Documents/DAW/LENGUAJE DE MARCAS/Concurso/src/main/java/Ejercicio1.java'
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\src\main\java\Ejercicio1.java = 1647971828538
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\src\main\java = 1647971823578
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\allclasses-frame.html = 1648236958792
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\allclasses-noframe.html = 1648236958795
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\constant-values.html = 1648236958729
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\deprecated-list.html = 1648236958788
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\Ejercicio1.html = 1648236958650
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\help-doc.html = 1648236958810
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\index-all.html = 1648236958776
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\index.html = 1648236958801
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\overview-tree.html = 1648236958765
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\package-frame.html = 1648236958659
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\package-list = 1648236958654
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\package-summary.html = 1648236958676
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\package-tree.html = 1648236958685
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\package-use.html = 1648236958749
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\script.js = 1648236958831
+C:\Users\kauzar\Documents\DAW\LENGUAJE DE MARCAS\Concurso\target\site\apidocs\stylesheet.css = 1648236958829
